@@ -1,5 +1,3 @@
-# DW-Fellowship-DSA-Roadmap / Level 0 / 0 Simulation - Arrays
-
 ## 📚 List of Problems
 
 1. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -19,3 +17,5 @@
 
 * **Make sure to prepare your notes alongside solving each problem.**
 * **Don't spend more than 30–40 minutes on a single problem.**
+* **If you are stuck in on a problem, search on YouTube using thr porblem number.**
+* **Try to solve a problem in multiple ways.**
