@@ -17,5 +17,5 @@
 
 * **Make sure to prepare your notes alongside solving each problem.**
 * **Don't spend more than 30–40 minutes on a single problem.**
-* **If you are stuck in on a problem, search on YouTube using thr porblem number.**
+* **If you are stuck in on a problem, search on YouTube using the porblem number.**
 * **Try to solve a problem in multiple ways.**
