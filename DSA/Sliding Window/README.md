@@ -2,7 +2,7 @@
 # Sliding Window Technique 
 
 A complete beginner-friendly guide to the **Sliding Window technique in DSA**, from zero to advanced level.
- 
+  
 The goal of this README is to understand:
 
 * What Sliding Window is
